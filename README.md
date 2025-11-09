@@ -138,7 +138,7 @@ numpy
 Name: Himanshu Anand
 Email: himanshuanandece@gmail.com | himanshuanand480@gmail.com
 LinkedIn: www.linkedin.com/in/himanshu-anand-684656253
-Google Drive (for demo videos): (will be added soon)
+Google Drive : https://drive.google.com/drive/folders/1kwdW34hN-PwAemmFrJ3bWrWdCyRp--S5?usp=sharing
 
 💬 Feedback
 If you find this project interesting or useful,
