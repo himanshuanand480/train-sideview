@@ -1,0 +1,7 @@
+opencv-python
+numpy
+moviepy
+scipy
+jinja2
+reportlab
+ultralytics
